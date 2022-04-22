@@ -1,4 +1,5 @@
 const appKey = "40UFx6kaYbEb2PKwoZkQAGdekswbhukh";
+
 const searchInput = document.querySelector(".search");
 const formSearch = document.querySelector(".search-form");
 const imageContainer = document.querySelector(".gif");
